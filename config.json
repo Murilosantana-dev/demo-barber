@@ -1,0 +1,354 @@
+{
+  "app": "Barbearia Studio",
+  "tipo": "dados-da-barbearia",
+  "versao": 1,
+  "exportadoEm": "2026-11-18T01:30:05.345Z",
+  "barbearia": {
+    "id": 1,
+    "name": "Barbearia Exemplar",
+    "logo": {
+      "w": {
+        "file": "assets/logo-branca.png",
+        "name": "icone.png",
+        "opaque": true
+      },
+      "b": {
+        "file": "assets/logo-preta.png",
+        "name": "icone.png",
+        "opaque": true
+      },
+      "shape": "sq"
+    },
+    "style": "moderna",
+    "styleCustom": "",
+    "pal": "grafite",
+    "accent": null,
+    "btn": null,
+    "hero": {
+      "photo": {
+        "file": "assets/abertura.jpg",
+        "name": "abertura.jpg"
+      },
+      "label": "Desde 2016",
+      "tag": "cuidando do seu visual"
+    },
+    "about": {
+      "on": true,
+      "label": "Sobre nós",
+      "title": "Estilo - profissionalismo e parceria",
+      "text": "Além de te deixar estiloso, sempre fazendo novos amigos",
+      "photos": [
+        {
+          "file": "assets/sobre-1.jpg",
+          "name": "sobre-1.jpg"
+        },
+        {
+          "file": "assets/sobre-2.jpg",
+          "name": "sobre-2.jpg"
+        },
+        {
+          "file": "assets/sobre-3.jpg",
+          "name": "sobre-3.jpg"
+        }
+      ],
+      "stats": [
+        {
+          "n": "10",
+          "l1": "Anos de",
+          "l2": "experiência"
+        },
+        {
+          "n": "3",
+          "l1": "Barbeiros",
+          "l2": "dedicados"
+        },
+        {
+          "n": "15",
+          "l1": "Cortes",
+          "l2": "por dia"
+        },
+        {
+          "n": "150",
+          "l1": "Clientes",
+          "l2": "por mês"
+        }
+      ]
+    },
+    "services": {
+      "label": "Serviços",
+      "title": "O que fazemos por você.",
+      "items": [
+        {
+          "id": 1,
+          "ic": "scissors",
+          "n": "Corte masculino",
+          "desc": "Degradê, social e o que você quiser!",
+          "dur": "40 min",
+          "pt": "fixo",
+          "pv": "35,00"
+        },
+        {
+          "id": 2,
+          "ic": "mustache",
+          "n": "Barba",
+          "desc": "Retoques, bigode e muito mais.",
+          "dur": "30 min",
+          "pt": "apartir",
+          "pv": "35,00"
+        },
+        {
+          "id": 3,
+          "ic": "brush",
+          "n": "Pezinho",
+          "desc": "Pequenos detalhes que fazem a diferença",
+          "dur": "15 min",
+          "pt": "fixo",
+          "pv": "15,00"
+        },
+        {
+          "id": 4,
+          "ic": "care",
+          "n": "Tingimento",
+          "desc": "Uma enorme variedade de cores",
+          "dur": "1h30 ",
+          "pt": "apartir",
+          "pv": "55,00"
+        }
+      ]
+    },
+    "diff": {
+      "on": true,
+      "items": [
+        {
+          "t": "Atendimento individual",
+          "photo": {
+            "file": "assets/diferencial-1.jpg",
+            "name": "diferencial-2.jpg"
+          }
+        },
+        {
+          "t": "Equipamento de primeira",
+          "photo": {
+            "file": "assets/diferencial-2.jpg",
+            "name": "diferencial-1.jpg"
+          }
+        },
+        {
+          "t": "Lugar para toda a família ",
+          "photo": {
+            "file": "assets/diferencial-3.jpg",
+            "name": "diferencial-3.jpg"
+          }
+        }
+      ]
+    },
+    "team": {
+      "label": "Nossa equipe",
+      "title": "Quem cuida do seu visual.",
+      "quote": "Você é tão bom quanto o seu último corte.",
+      "items": [
+        {
+          "id": 1,
+          "n": "Fernando",
+          "e": "Degradê e cortes sociais",
+          "w": "",
+          "photo": {
+            "file": "assets/barbeiro-1-fernando.jpg",
+            "name": "barbeiro-1-fernando.jpg"
+          },
+          "days": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "id": 2,
+          "n": "Claudio",
+          "e": "Barba e navalha",
+          "w": "",
+          "photo": {
+            "file": "assets/barbeiro-2-claudio.jpg",
+            "name": "barbeiro-2-claudio.jpg"
+          },
+          "days": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "on": true,
+      "label": "Galeria",
+      "title": "Nosso trabalho, de perto.",
+      "sub": "Cortes, barbas e bastidores do dia a dia.",
+      "items": [
+        {
+          "file": "assets/galeria-01.jpg",
+          "name": "galeria-01.jpg"
+        },
+        {
+          "file": "assets/galeria-02.jpg",
+          "name": "galeria-02.jpg"
+        },
+        {
+          "file": "assets/galeria-03.jpg",
+          "name": "galeria-03.jpg"
+        },
+        {
+          "file": "assets/galeria-04.jpg",
+          "name": "galeria-04.jpg"
+        },
+        {
+          "file": "assets/galeria-05.jpg",
+          "name": "galeria-05.jpg"
+        },
+        {
+          "file": "assets/galeria-06.jpg",
+          "name": "galeria-06.jpg"
+        }
+      ]
+    },
+    "rev": {
+      "on": true,
+      "label": "Depoimentos",
+      "title": "Quem senta na cadeira, volta.",
+      "items": [
+        {
+          "id": 1,
+          "t": "Atendimento excelente. Cheguei na hora e saí na hora.",
+          "n": "Cliente A.",
+          "s": "corte"
+        },
+        {
+          "id": 2,
+          "t": "A toalha quente na barba é outro nível.",
+          "n": "Cliente B.",
+          "s": "barba"
+        },
+        {
+          "id": 3,
+          "t": "Agendei pelo celular em segundos.",
+          "n": "Cliente C.",
+          "s": "corte + barba"
+        }
+      ]
+    },
+    "contact": {
+      "phone": "(11) 11111-1111",
+      "street": "Calendulas",
+      "num": "123",
+      "hood": "Brasilia",
+      "city": "São José",
+      "uf": "Sc",
+      "maps": "www.sua-localização.maps.com",
+      "ig": "@seu.insta",
+      "tt": "",
+      "fb": "faceboo.com/seu-facebook",
+      "hours": [
+        {
+          "d": "Segunda",
+          "open": "09:00",
+          "close": "19:00",
+          "closed": false,
+          "lunch": false,
+          "ls": "12:00",
+          "le": "13:00"
+        },
+        {
+          "d": "Terça",
+          "open": "09:00",
+          "close": "19:00",
+          "closed": false,
+          "lunch": false,
+          "ls": "12:00",
+          "le": "13:00"
+        },
+        {
+          "d": "Quarta",
+          "open": "09:00",
+          "close": "19:00",
+          "closed": false,
+          "lunch": false,
+          "ls": "12:00",
+          "le": "13:00"
+        },
+        {
+          "d": "Quinta",
+          "open": "09:00",
+          "close": "19:00",
+          "closed": false,
+          "lunch": false,
+          "ls": "12:00",
+          "le": "13:00"
+        },
+        {
+          "d": "Sexta",
+          "open": "09:00",
+          "close": "19:00",
+          "closed": false,
+          "lunch": false,
+          "ls": "12:00",
+          "le": "13:00"
+        },
+        {
+          "d": "Sábado",
+          "open": "09:00",
+          "close": "17:00",
+          "closed": false,
+          "lunch": false,
+          "ls": "12:00",
+          "le": "13:00"
+        },
+        {
+          "d": "Domingo",
+          "open": "",
+          "close": "",
+          "closed": true,
+          "lunch": false,
+          "ls": "12:00",
+          "le": "13:00"
+        }
+      ]
+    },
+    "pub": {
+      "favicon": {
+        "file": "assets/icone.png",
+        "name": "icone.png"
+      },
+      "domain": "x",
+      "seoT": null,
+      "seoD": null,
+      "shareT": "Agende seu horário pelo WhatsApp.",
+      "photo": {
+        "std": 0,
+        "x": 50,
+        "y": 50,
+        "z": 100
+      },
+      "published": false,
+      "link": ""
+    },
+    "booking": {
+      "on": true,
+      "step": 30,
+      "ahead": 14,
+      "minAdv": 60,
+      "any": true,
+      "multi": true,
+      "note": "editavel"
+    },
+    "exportedAt": "17/11",
+    "dirty": false
+  }
+}
